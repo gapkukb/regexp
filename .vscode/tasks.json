@@ -8,14 +8,6 @@
 			"problemMatcher": [],
 			"label": "npm: build",
 			"detail": "tsc -P tsconfig.json"
-		},
-		{
-			"type": "npm",
-			"script": "build:es6",
-			"group": "build",
-			"problemMatcher": [],
-			"label": "npm: build:es6",
-			"detail": "tsc -P tsconfig.json --module ES6 --outDir dist/es6"
 		}
 	]
 }
