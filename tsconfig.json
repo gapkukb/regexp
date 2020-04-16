@@ -1,0 +1,14 @@
+{
+  "compilerOptions": {
+    "target": "es6",
+    "module": "esnext",
+    "moduleResolution": "node",
+    "outDir": "dist/",
+    "rootDir": "./src",
+    "declaration": true,
+    // "removeComments": true,
+    "lib": [
+      "esnext"
+    ]
+  },
+}

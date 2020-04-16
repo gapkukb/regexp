@@ -1,0 +1,23 @@
+{
+  "name": "regexp",
+  "version": "1.0.0",
+  "description": "常用正则集合",
+  "main": "dist/index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "build": "tsc -P tsconfig.json"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gapkukb/regexp.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gapkukb/regexp/issues"
+  },
+  "homepage": "https://github.com/gapkukb/regexp#readme"
+}
